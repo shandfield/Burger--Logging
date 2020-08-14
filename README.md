@@ -4,7 +4,6 @@ Description: This project demonstrates the use of Heroku, handlebars, express an
 
 Heroku Link:  https://fierce-mesa-26542.herokuapp.com/
 Github link: https://github.com/shandfield/Burger--Logging
-[![Watch the video]<iframe src="https://drive.google.com/file/d/1yboitTDyA7y2L0tWSSrPn-vrIB9c-BPy/preview" width="640" height="480"></iframe>]
 
 
 Install: In order to utilize this program the user will need to utilize the terminal to complete installs of mysql, express and express-handlebars via npm i. The user can either just enter in npm i or npm i mysql express express-handlebars into the terminal. Once the packages have installed, the user can then access it. This is also being deployed via Heroku.
