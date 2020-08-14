@@ -1,0 +1,44 @@
+body{
+  background: lightyellow;
+}
+
+li {
+  padding: 5px;
+  margin-left: 500px;
+  margin-right: 550px;
+  background: #faebd7;
+  text-align: center;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-form {
+  padding: 5px;
+  margin-left: 500px;
+  margin-right: 550px;
+  background: grey;
+  text-align: center;
+  color: red;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+h1{
+  color: lime;
+  text-align: center;
+}
+
+h2{
+  color:gold;
+  text-align: center;
+}
+
+style{
+  margin: auto;
+  padding: auto;
+}
+
