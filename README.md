@@ -4,7 +4,7 @@
 
 Description: This project demonstrates the use of Heroku, handlebars, express and MySQL working together to produce a burger log. It allows the user to create a burger, then decide if they still need to eat the burger, have devoured it, or just delete the burger.
 
-Heroku Link:  https://fierce-mesa-26542.herokuapp.com/
+Heroku Link:  https://shandfield-burger-logging.herokuapp.com/
 Github link: https://github.com/shandfield/Burger--Logging
 
 
