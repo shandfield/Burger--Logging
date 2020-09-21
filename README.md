@@ -1,6 +1,6 @@
 # Burger-Logging
 
-![burger-logging demo](https://i.imgur.com/D06pZ5e.gif)
+![burger-logging demo](https://i.imgur.com/57U3ljp.gif)
 
 ## Description:
 A fun project in school that demonstrates the understanding of handlebars, express and MySQL to create a burger log. 
@@ -63,6 +63,9 @@ SOFTWARE.
 
 ## Contribution:
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
+## Inspiration:
+https://github.com/violettebec21 was a huge help with seeing how titles should appear and helped with code comparision to fix errors and bugs. 
 
 ## Status: 
 At this time, no further development is planned on this project. 
