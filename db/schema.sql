@@ -9,8 +9,7 @@ CREATE TABLE burgers
 (
 	id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
 	name varchar(255) NOT NULL,
-	devour BOOLEAN DEFAULT false
-	createdAt TIMESTAMP NOT NULL
+	devoured BOOLEAN DEFAULT false
 );
 
 SELECT * FROM burgers;
