@@ -18,9 +18,9 @@ li {
   padding: 5px;
   margin-left: 500px;
   margin-right: 550px;
-  background: grey;
+  background: #faebd7;
   text-align: center;
-  color: red;
+  color:navy;
 }
 
 .form-group {
@@ -33,7 +33,7 @@ h1{
 }
 
 h2{
-  color:gold;
+  color:limegreen;
   text-align: center;
 }
 
