@@ -8,7 +8,7 @@ $(document).ready(function () {
 
       //going to burgers/update route putting new data there so update devour-state
       // Send the PUT request.
-      $.ajax("/api/burgers/" + id, {
+      $.ajax("/burgers/update/" + id, {
           type: "PUT",
           data: newBurgerState
       }).then(
@@ -28,7 +28,7 @@ $(document).ready(function () {
     };
 
     // Send the POST request.
-    $.ajax("/api/burgers", {
+    $.ajax("/burgers/create", {
       type: "POST",
       data: newBurger
     }).then(
@@ -44,7 +44,7 @@ $(document).ready(function () {
       var id = $(this).data("id");
 
       // Send the DELETE request.
-      $.ajax("/api/burgers/" + id, {
+      $.ajax("/burgers/delete/" + id, {
           type: "DELETE"
       }).then(
           function () {
